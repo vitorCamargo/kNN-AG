@@ -1,5 +1,0 @@
-Para utilizar este programa basta utilizar o seguinte comando:
-
-# python main.c arquivo_treinamento.txt arquivo_teste.txt valor_do_k
-
-Em alguns casos é necessário utilizar python3.
