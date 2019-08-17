@@ -1,5 +1,5 @@
 # kNN and Genetic Algorithms
-👨🏽‍💻🧠 Assignment for 'Intelligence Artificial' subject about k-NN and Genetic Algorithms.
+👨🏽‍💻🧠 Assignment for 'Artificial Intelligence' subject about k-NN and Genetic Algorithms.
 
 ## More Informations
 This project is developed using the programming language Python3.
